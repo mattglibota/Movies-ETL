@@ -1,5 +1,5 @@
-def test_function(name):
-    return f'Hello {name}, welcome to my challenge code'
+def test_function(n):
+    return n
 
 def movies_challenge(wiki_data, kaggle_data, rating_data):
 
