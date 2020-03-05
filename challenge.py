@@ -1,3 +1,6 @@
+def test_fun(name):
+    return f'Hello {name}, welcome to my challenge code'
+
 def movies_challenge(wiki_data, kaggle_data, rating_data):
 
     def clean_movies(movie):
