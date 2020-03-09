@@ -1,6 +1,9 @@
 # Movies ETL
 ## Module 8
 
+### Code Summary
+The automated ETL script is located in **challenge.py**. A Jupyter Notebook named **movies_challenge.ipynb** was created to run the script.
+
 ### Data Assumptions for ETL Process
 
 1. **Columns and data structure will be consistent from upload to upload**. Our code does not presently check if columns exist before performing transformations. Our code could generate exceptions if the structure of the Wiki, Kaggle or Ratings data changes
